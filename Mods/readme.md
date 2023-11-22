@@ -82,3 +82,15 @@ Z Belt deck panel hole cover to avoid debris into Z pulleys. It should be glued 
 </td><td>
 A more reliable Z endstop with a stop that prevents any steel spring sheet interacting with it.
 </td></tr></table>
+
+# 3rd part Mods used:
+ - Auxiliary Fan: https://www.printables.com/model/491293/files
+ - Dragon Burner toolhead: https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner
+ - Foldable Spool Holder: https://www.printables.com/model/311233-voron-01-foldable-spool-holder/files
+ - V0 1515 tnut: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_1515_T-nut
+ - MGN9C Motors: https://github.com/ruiqimao/VoronUsers/tree/v0.2-mgn9c/printer_mods/ruiqimao/V0.2_MGN9C_X
+ - Neopixels mount: https://github.com/harry-boe/AntFarm-Projects/tree/main/YALM
+ - Servo Klicky: https://github.com/harry-boe/tri-zero/tree/ServoKlicky/Mods/hbo
+ - Umbilical board: https://github.com/VoronDesign/Voron-Hardware/tree/master/V0-Umbilical/STLs/V0.2
+ - Wago Din rail Mount: https://www.thingiverse.com/thing:5018395
+

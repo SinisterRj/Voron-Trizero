@@ -12,7 +12,7 @@ A BTT pi Mount that allows a it to be assembled over the PSU, bellow the lower d
 </td></tr></table>
 
 ## Dragon Burner
-A remixed bowden adaptor and a extended cowl for the NF Crazy Volcano hotend. Based on the [Dragonburner V5](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
+A remixed bowden adaptor and a extended cowl for the NF Crazy Volcano hotend. Based on the [Dragonburner V7](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 
 ## Electronics
 Electronics mounts for an arduino, esp 32 and the Mellow ERCF easy brd  to be used with this [Stiffer Dinmount modified](https://www.printables.com/model/367956-voron-misc-din-rail-mounts/files).

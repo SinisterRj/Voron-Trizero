@@ -27,11 +27,12 @@ A electronics exaust fans positioned on the tho of the rear panel.
 ## Extended hinge
 Original V0.2 door hinges extended for 3mm thick foam tapes.
 
-## GE5C Z joint
+## GE5C Z joint (rev. 2)
 <table><tr><td>
 <img src="/Images/Mods_GE5C.png" width="300">
 </td><td>
-Substitute for the original trizero's Z flex joints by the GE5C metal bearing. </br></br>
+Substitute for the original trizero's Z flex joints by the GE5C metal bearing. </br>
+Update: New design on rear Z attachment. (Thanks HBO for the insight)</br></br>
 BOM:</br>
 3x GE5C - tested with: <a href="https://s.click.aliexpress.com/e/_DEEATK3">Affiliate Link</a></br>
 3x m3x16 BHCS</br>

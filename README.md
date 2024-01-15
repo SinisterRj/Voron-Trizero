@@ -6,3 +6,6 @@ Welcome to my voron Tri-zero project. Here you can find my configuration files, 
 ![Tri-zero - Sinister's Edition Render](https://github.com/SinisterRj/Voron-Trizero/blob/main/Images/Tri-Zero-Sinister%20v49.png)
 
 Thanks to Zruncho for the original project and HBO for the excelent mods.
+
+Se você é brasileiro 🇧🇷, junte-se a nós no Discord:
+https://discord.com/invite/pUpXTrJ83D

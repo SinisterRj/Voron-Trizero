@@ -8,4 +8,4 @@ Welcome to my voron Tri-zero project. Here you can find my configuration files, 
 Thanks to Zruncho for the original project and HBO for the excelent mods.
 
 Se você é brasileiro 🇧🇷, junte-se a nós no Discord:
-https://discord.com/invite/pUpXTrJ83D
+https://discord.gg/3DyXfGwWJY

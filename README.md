@@ -5,6 +5,14 @@ Welcome to my voron Tri-zero project. Here you can find my configuration files, 
 
 ![Tri-zero - Sinister's Edition Render](https://github.com/SinisterRj/Voron-Trizero/blob/main/Images/Tri-Zero-Sinister%20v49.png)
 
+## Main Components Specs:
+
+- Main Electronics: 2x BTT SKR Pico + 1x BTT EBB36 + BTT PI v1.2
+- Extruder: Wristwatch G2
+- Hotend: Mellow NF Crazy Volcano
+- A & B Steppers: Moons' MS14HS5P4150
+
+
 Thanks to Zruncho for the original project and HBO for the excelent mods.
 
 Se você é brasileiro 🇧🇷, junte-se a nós no Discord:
